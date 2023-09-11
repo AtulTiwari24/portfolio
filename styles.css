@@ -1,0 +1,144 @@
+body {
+  color:#40514E;
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: "Sacramento", cursive;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+  padding: 10px;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+
+p{
+  line-height: 2;
+  
+}
+
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+
+a{
+  color: #11999e;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.top-container {
+  background-color: #eaf6f6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  margin: 100px 0;
+}
+
+.bottom-container {
+  background-color: #66bfbf;
+  padding:50px 0 20px
+}
+
+.Smally {
+  text-decoration: underline;
+}
+
+.Intro{
+  width: 30%;
+  margin: auto;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skills-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  padding-bottom: 35px;
+}
+
+.ComputerYe {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.ChilliesYe {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.Mee {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+}
+
+.Mee {
+  width: 10%;
+  height: auto;
+}
+
+.copyWright {
+  color: #eaf6f6;
+  padding: 15px;
+}
+
+.contact-me p{
+  padding: 10px;
+}
+
+.btn{
+  padding: 10px 20px 10px 20px;
+  border-radius: 8px;
+  background-color: #11cdd4;
+  text-decoration: none;
+  font-size: 20px;
+  color: white;
+  font-family:"Montserrat", sans-serif;
+
+}
+
+.btn:hover{
+  background-color: #30e3cb;
+
+}
+
+
